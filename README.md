@@ -1,4 +1,4 @@
-#summary Bulk data loader
+# Bulk data loader - DEPRECATED
 
 = Introduction =
 
@@ -12,4 +12,4 @@ Requirements:
 
 = Details =
 
-Nothing yet.
+This project was created a while back and i'm pretty sure it wont work without fixing.
