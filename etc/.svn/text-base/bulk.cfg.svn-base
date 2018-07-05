@@ -1,0 +1,47 @@
+#-------------------------------------
+# Bulk load example Configuration File
+#-------------------------------------
+#
+
+pgcl:
+{
+  server:
+  {
+    host = "inside";
+    port = 5432;
+    user = "maintainer";
+    pass = "";
+    database = "test";
+    table = "tours";
+    charset = "utf-8";
+  };
+  
+  default:
+  {
+    table = "tours";
+    skip_head = 1;
+    total_rows = 1000;
+    transaction_limit = 1;
+    delimiter = ",";
+    fields = "17,2,3,4,1";
+    truncate = 1;
+    charset = "iso-8859-2";
+    errorlog = "logs/error.log";
+    rawlog = "logs/raw.log";
+  };
+  
+  csv:
+  {
+    table = "tours";
+    skip_head = 1;
+    total_rows = 1000;
+    transaction_limit = 1;
+    delimiter = ",";
+    fields = "17,17,1";
+    truncate = 1;
+    charset = "iso-8859-2";
+    errorlog = "logs/error.log";
+    rawlog = "logs/raw.log";
+  };
+  
+};

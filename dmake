@@ -1,0 +1,1 @@
+gcc -ggdb -I/usr/local/include/postgresql/server/libpq/ -lpq -lconfig -lcsv `pkg-config --cflags libconfig` pgcloader.c -o bulk `pkg-config --libs libconfig`

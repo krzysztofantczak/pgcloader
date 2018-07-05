@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/11/trunk/libs/libconfig
+END
+grammar.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/10/trunk/libs/libconfig/grammar.h
+END
+libconfig.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/10/trunk/libs/libconfig/libconfig.c
+END
+parsectx.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/10/trunk/libs/libconfig/parsectx.h
+END
+scanner.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/10/trunk/libs/libconfig/scanner.h
+END
+libconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/10/trunk/libs/libconfig/libconfig.h
+END
+scanner.l
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/10/trunk/libs/libconfig/scanner.l
+END
+scanctx.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/10/trunk/libs/libconfig/scanctx.c
+END
+libconfig.spec
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/10/trunk/libs/libconfig/libconfig.spec
+END
+strbuf.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/10/trunk/libs/libconfig/strbuf.c
+END
+wincompat.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/10/trunk/libs/libconfig/wincompat.h
+END
+libconfig.sln
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/10/trunk/libs/libconfig/libconfig.sln
+END
+scanctx.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/10/trunk/libs/libconfig/scanctx.h
+END
+libconfig.hh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/10/trunk/libs/libconfig/libconfig.hh
+END
+libconfig.spec.in
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/10/trunk/libs/libconfig/libconfig.spec.in
+END
+strbuf.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/10/trunk/libs/libconfig/strbuf.h
+END
+grammar.y
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/10/trunk/libs/libconfig/grammar.y
+END
+libconfig.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10/trunk/libs/libconfig/libconfig.pc.in
+END
+ac_config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/10/trunk/libs/libconfig/ac_config.h.in
+END
+grammar.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/10/trunk/libs/libconfig/grammar.c
+END
+scanner.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/10/trunk/libs/libconfig/scanner.c
+END

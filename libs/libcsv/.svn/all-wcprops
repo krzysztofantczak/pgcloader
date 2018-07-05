@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/10/trunk/libs/libcsv
+END
+csv.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/10/trunk/libs/libcsv/csv.h
+END
+libcsv.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/10/trunk/libs/libcsv/libcsv.c
+END
